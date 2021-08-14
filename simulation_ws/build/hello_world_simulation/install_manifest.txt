@@ -1,9 +1,0 @@
-/home/ubuntu/environment/aws-robomaker-sample-application-helloworld/simulation_ws/install/hello_world_simulation/lib/pkgconfig/hello_world_simulation.pc
-/home/ubuntu/environment/aws-robomaker-sample-application-helloworld/simulation_ws/install/hello_world_simulation/share/hello_world_simulation/cmake/hello_world_simulationConfig.cmake
-/home/ubuntu/environment/aws-robomaker-sample-application-helloworld/simulation_ws/install/hello_world_simulation/share/hello_world_simulation/cmake/hello_world_simulationConfig-version.cmake
-/home/ubuntu/environment/aws-robomaker-sample-application-helloworld/simulation_ws/install/hello_world_simulation/share/hello_world_simulation/package.xml
-/home/ubuntu/environment/aws-robomaker-sample-application-helloworld/simulation_ws/install/hello_world_simulation/share/hello_world_simulation/launch/view_empty_world.launch
-/home/ubuntu/environment/aws-robomaker-sample-application-helloworld/simulation_ws/install/hello_world_simulation/share/hello_world_simulation/launch/empty_world.launch
-/home/ubuntu/environment/aws-robomaker-sample-application-helloworld/simulation_ws/install/hello_world_simulation/share/hello_world_simulation/launch/worldforge_world.launch
-/home/ubuntu/environment/aws-robomaker-sample-application-helloworld/simulation_ws/install/hello_world_simulation/share/hello_world_simulation/worlds/empty.world
-/home/ubuntu/environment/aws-robomaker-sample-application-helloworld/simulation_ws/install/hello_world_simulation/share/hello_world_simulation/rviz/turtlebot3_model.rviz

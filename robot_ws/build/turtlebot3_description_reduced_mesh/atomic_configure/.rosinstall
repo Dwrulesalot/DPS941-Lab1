@@ -1,2 +1,0 @@
-- setup-file:
-    local-name: /home/ubuntu/environment/aws-robomaker-sample-application-helloworld/robot_ws/build/turtlebot3_description_reduced_mesh/devel/setup.sh
