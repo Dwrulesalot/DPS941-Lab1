@@ -1,3 +1,6 @@
+#Changes to the sample application
+rotate.py has been changed from it's original code to conform to lab1 specs
+
 # AWS RoboMaker Sample Application - Hello World
 
 This demonstrates the structure of a ROS project that works with RoboMaker by creating a robot spinning in an empty world.
