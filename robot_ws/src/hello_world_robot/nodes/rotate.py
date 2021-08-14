@@ -54,13 +54,11 @@ class Rotator():
                 #y+=0.5# I know I shouldn't do it like this but I couldn't figure out the odometer, I'll try to implement that in lab 2 but this is simpler
                 #if past the point stop moving
                 
-                if goal.z <= z and goal.y <= z:
+                if goal.z <= z and goal.y <= z:#
                     self.twist.linear.z = 0
-                    self.twist.linear.y = 0
                     rospy.loginfo('Robot made it to point B: %s', self.twist)
                 else:
-                    self.twist.linear.x = 0.5#
-                    #self.twist.linear.y = 0.5
+                    self.twist.linear.x = 0.5
                     rospy.loginfo('Robot moving to point B: %s', self.twist)
             self._cmd_pub.publish(self.twist)
             r.sleep()
