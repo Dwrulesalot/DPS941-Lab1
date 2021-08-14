@@ -1,0 +1,16 @@
+Built target hello_world_simulation_xacro_generated_to_devel_space_
+Built target tests
+Built target hello_world_simulation_xacro_generated_to_devel_space_
+[36mInstall the project...[0m
+-- Install configuration: ""
+-- Up-to-date: /home/ubuntu/environment/aws-robomaker-sample-application-helloworld/simulation_ws/install/hello_world_simulation/lib/pkgconfig/hello_world_simulation.pc
+-- Up-to-date: /home/ubuntu/environment/aws-robomaker-sample-application-helloworld/simulation_ws/install/hello_world_simulation/share/hello_world_simulation/cmake/hello_world_simulationConfig.cmake
+-- Up-to-date: /home/ubuntu/environment/aws-robomaker-sample-application-helloworld/simulation_ws/install/hello_world_simulation/share/hello_world_simulation/cmake/hello_world_simulationConfig-version.cmake
+-- Up-to-date: /home/ubuntu/environment/aws-robomaker-sample-application-helloworld/simulation_ws/install/hello_world_simulation/share/hello_world_simulation/package.xml
+-- Up-to-date: /home/ubuntu/environment/aws-robomaker-sample-application-helloworld/simulation_ws/install/hello_world_simulation/share/hello_world_simulation/launch
+-- Up-to-date: /home/ubuntu/environment/aws-robomaker-sample-application-helloworld/simulation_ws/install/hello_world_simulation/share/hello_world_simulation/launch/view_empty_world.launch
+-- Up-to-date: /home/ubuntu/environment/aws-robomaker-sample-application-helloworld/simulation_ws/install/hello_world_simulation/share/hello_world_simulation/launch/empty_world.launch
+-- Up-to-date: /home/ubuntu/environment/aws-robomaker-sample-application-helloworld/simulation_ws/install/hello_world_simulation/share/hello_world_simulation/launch/worldforge_world.launch
+-- Up-to-date: /home/ubuntu/environment/aws-robomaker-sample-application-helloworld/simulation_ws/install/hello_world_simulation/share/hello_world_simulation/worlds
+-- Up-to-date: /home/ubuntu/environment/aws-robomaker-sample-application-helloworld/simulation_ws/install/hello_world_simulation/share/hello_world_simulation/worlds/empty.world
+-- Up-to-date: /home/ubuntu/environment/aws-robomaker-sample-application-helloworld/simulation_ws/install/hello_world_simulation/share/hello_world_simulation/rviz/turtlebot3_model.rviz
